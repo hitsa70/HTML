@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+
+  <title>⛔Hitesh Personal Site</title>
+</head>
+
+<body>
+  <table cellspacing="100px">
+    <tr>
+      <td>
+        <img src="https://hosting.photobucket.com/images/i/hitsa70/circle_cropped_(1).png?width=1920&height=1080&fit=bounds" alt="⛌⛌Check your internet Connection⛌⛌">
+
+      </td>
+      <td>
+        <h1> &nbsp; &nbsp;&nbsp; ☮Hitesh Choudhary☮</h1>
+        <h2>Kellenberg Memorial
+          High School</h2>
+        <em>"A Catholic School in the Marianist Tradition"</em>
+
+        The mural at the north entrance of the <strong>school</strong> depicts the Holy Family. </p>
+
+      </td>
+    </tr>
+  </table>
+
+
+  <br>
+
+
+  <hr>
+  <p>It serves as a reminder that Kellenberg is a family and it is fitting that the Holy Family is the first greeting the students receive as they enter the building. The mural was designed by artist Yan Rieger and was executed during the summer of
+    1997 in honor of Kellenberg's tenth anniversary. It is unusual in that it depicts Jesus as a teenager. And, reflecting the family emphasis of Kellenberg, the mural was worked on not only by the artist but also by his wife, various members of
+    the student body and the Marianist community </p>
+
+
+  <h3>Books and Coourses </h3>
+  <ul>
+    <li>Web development</li>
+    <li>Machine learning</li>
+
+  </ul>
+  <hr>
+
+
+  <h3>My hobbiees</h3>
+  <ol>
+    <li>Dance</li>
+    <li>Music</li>
+    <li>kho kho</li>
+  </ol>
+
+  <table>
+    <thead>
+      <tr>
+        <th>date</th>
+        <th>Work</th>
+      </tr>
+
+    </thead>
+
+    <tr>
+
+      <tbody>
+        <td>2014</td>
+        <td>class 10th</td>
+    </tr>
+    <tr>
+      <td>2016</td>
+      <td>Class 12th</td>
+    </tr>
+
+    </tbody>
+
+    <tfoot>
+
+    </tfoot>
+
+  </table>
+  <br>
+  <table cellspacing=10>
+    <thead>
+      <th>Skill</th>
+      <th>⭐⭐⭐⭐⭐</th>
+
+
+    </thead>
+
+    <tr>
+      <td>
+        Java
+      </td>
+      <td>
+        ⭐⭐⭐⭐⭐
+      </td>
+    </tr>
+
+    <tr>
+      <td>
+        C
+      </td>
+      <td>
+        ⭐⭐⭐ ☆ ☆
+      </td>
+    </tr>
+
+    <tr>
+      <td>
+        Data Structure
+      </td>
+      <td>
+        ⭐⭐⭐⭐☆
+      </td>
+    </tr>
+
+    <tr>
+      <td>
+        Algorithms
+      </td>
+      <td>
+        ⭐⭐⭐ ☆ ☆
+      </td>
+    </tr>
+  </table>
+
+
+  
+</body>
+
+</html>
